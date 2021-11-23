@@ -5,7 +5,7 @@
           "nama": "TEAM RRQ",
           "divisi":"Mobile Legend, PUBG, Free Fire, Valorant",
           "bio":"",
-          "gambar":""
+          "gambar":"Rex Regum Qeon atau lebih dikenal dengan team RRQ adalah salah satu klub e-sports profesional terbesar dari Indonesia. Team RRQ sendiri sudah mempunyai berbagai gelar prestasi di dunia e-sports baik di Tanah Air hingga Mancanegara.Nama Rex Regum berasal dari bahasa Latin yang berarti ‘raja dari segala raja’ atau ‘king of kings’, sedangkan Qeon merupakan nama in game Presiden Direktur Team RRQ, Riki K. Suliawan."
       },
       {
           "id": 2,
@@ -55,6 +55,27 @@
             "id": 1,
             "nama": "Mobile Legend",
             "turnament":"MPL, M-Series, MSC, Piala Presiden",
+            "bio":"",
+            "gambar":""
+        },
+        {
+            "id": 2,
+            "nama":"PUBG",
+            "turnament":"PMPL, PMPL SEA, PMGC",
+            "bio":"",
+            "gambar":""
+        },
+        {
+            "id": 3,
+            "nama":"Free Fire",
+            "turnament":"FFML, FFIM, FFWS",
+            "bio":"",
+            "gambar":""
+        },
+        {
+            "id": 4,
+            "nama":"Valorant",
+            "turnament":"Valorant Challengers, Valorant Masters, Valorant Champions",
             "bio":"",
             "gambar":""
         }
