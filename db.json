@@ -2,43 +2,61 @@
     "team": [
       {
           "id": 1,
-          "nama": "RRQ HOSHI",
-          "logo":"https://upload.wikimedia.org/wikipedia/commons/5/5b/LOGO_RRQ_orange.png"
+          "nama": "TEAM RRQ",
+          "divisi":"Mobile Legend, PUBG, Free Fire, Valorant",
+          "bio":"",
+          "gambar":""
       },
       {
           "id": 2,
-          "nama": "EVOS LEGENDS",
-          "logo":"https://1.bp.blogspot.com/-uhl9mtK74s0/YFTYEJ62kMI/AAAAAAAAB_s/FunJpTwdoUskbNPKELkc_12nBy8ULm-swCNcBGAsYHQ/s2048/Evos%2BEsports.png"
+          "nama": "EVOS ESPORT",
+          "divisi":"Mobile Legend, PUBG, Free Fire",
+          "bio":"",
+          "gambar":""
       },
       {
           "id": 3,
           "nama": "ONIC ESPORT",
-          "logo":"https://1.bp.blogspot.com/--bouxTF55Go/YFokr7Y9a8I/AAAAAAAACJE/TfWqt09_HnMEYBz0hs918fiVdGitu2Y_gCNcBGAsYHQ/s2048/Onic%2BEsports.png"
+          "divisi":"Mobile Legend, PUBG, Valorant",
+          "bio":"",
+          "gambar":""
       },
       {
           "id": 4,
           "nama": "AURA FIRE",
-          "logo":"https://1.bp.blogspot.com/-fg20ym1FxKI/YFRkySRqyZI/AAAAAAAAB-0/80PJKMV3X_geKi-vOqsirAfT1UgblsGBACNcBGAsYHQ/s2048/Aura%2BEsport.png"
+          "divisi":"Mobile Legend, PUBG, Free Fire",
+          "bio":"",
+          "gambar":""
       },
       {
           "id": 5,
           "nama": "BTR ALPHA",
-          "logo":"https://liquipedia.net/commons/images/c/c7/Bigetron_2020_allmode_full.png"
+          "divisi":"Mobile Legend, PUBG, Free Fire",
+          "bio":"",
+          "gambar":""
       },
       {
           "id": 6,
           "nama": "ALTER EGO",
-          "logo":"https://1.bp.blogspot.com/-8kcyQCjDX6A/YFbcZgopmiI/AAAAAAAACBU/2-bkZdyQVWc8RdsAJdzlj5UD4nQt2HHNgCNcBGAsYHQ/s2048/Alter%2BEgo%2BEsports.png"
+          "divisi":"Mobile Legend, PUBG, Free Fire, Valorant",
+          "bio":"",
+          "gambar":""
       },
       {
           "id": 7,
-          "nama": "REBILLION GENFLIX",
-          "logo":"https://api.revivalpedia.com/images/teams/1628832964-Rebellion%20Genflix.png"
-      },
-      {
-          "id": 8,
-          "nama": "GEEK FAM",
-          "logo":"https://1.bp.blogspot.com/-1DPsj9DuJ-w/YG-zYkNa7oI/AAAAAAAAEos/P7vmxGwpHdgq155XmEigJvQLAGYhscGVwCLcBGAsYHQ/s1600/Logo%2BGeek%2BFam.png"
+          "nama": "BOOM ESPORT",
+          "divisi":"PUBG, Free Fire, Valorant",
+          "bio":"",
+          "gambar":""
       }
+    ],
+    "game":[
+        {
+            "id": 1,
+            "nama": "Mobile Legend",
+            "turnament":"MPL, M-Series, MSC, Piala Presiden",
+            "bio":"",
+            "gambar":""
+        }
     ]
-  }
+}
